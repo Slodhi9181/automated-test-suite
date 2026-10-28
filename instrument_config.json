@@ -1,0 +1,20 @@
+{
+  "itech": {
+    "addr": "TCPIP::10.73.78.47::INSTR"
+  },
+  "gpp": {
+    "addr": "TCPIP0::169.254.110.87::1026::SOCKET"
+  },
+  "gdm": {
+    "addr": "ASRL5::INSTR"
+  },
+  "wt5000": {
+    "addr": "TCPIP::10.73.92.108::INSTR"
+  },
+  "mdo": {
+    "addr": "TCPIP::10.73.77.136::4000::SOCKET"
+  },
+  "ngi": {
+    "addr": "TCPIP::10.73.77.200::7000::SOCKET"
+  }
+}

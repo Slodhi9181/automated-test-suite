@@ -1,0 +1,11 @@
+{
+    "itech": "TCPIP::10.73.78.47::INSTR",
+    "gpp": "TCPIP0::10.73.91.40::1026::SOCKET",
+    "mdo": "TCPIP::10.73.77.136::4000::SOCKET",
+    "dmm": "TCPIP0::169.254.110.87::1026::SOCKET",
+    "gdm": "ASRL5::INSTR",
+    "daq": "TCPIP::192.168.1.XXX::INSTR",
+    "espec": "ASRL6::INSTR",
+    "wt5000": "TCPIP::10.73.92.108::INSTR",
+    "ngi": "TCPIP::10.73.77.200::7000::SOCKET"
+}

@@ -1,0 +1,8 @@
+{
+  "itech": {
+    "addr": "TCPIP::10.73.78.47::INSTR"
+  },
+  "gpp": {
+    "addr": "TCPIP0::10.73.91.40::1026::SOCKET"
+  }
+}

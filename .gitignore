@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec.bak
+
+# Runtime artifacts
+logs/
+results/
+*.log
+
+# Auto-saved UI / session state (regenerated at runtime)
+panel_state.json
+sequence_session.json
+eddie_watchlist.json
+app_settings.json
+
+# OS
+Thumbs.db
+desktop.ini
+~$*
+
+# Stray Windows reserved-name file (accidental redirect artifact)
+nul
+
+# Pre-built distributable (rebuild with build.bat)
+distributableV1.0/
+
+# Large reference docs & caches (not needed to run/build the app)
+Markdown Files/
+datamodel_cache/
+converted/
+Ennovate-2026-Entry.pptx
