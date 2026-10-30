@@ -1,6 +1,6 @@
 {
     "itech": "TCPIP::10.73.78.47::INSTR",
-    "gpp": "TCPIP0::10.73.91.40::1026::SOCKET",
+    "gpp": "TCPIP0::169.254.110.88::1026::SOCKET",
     "mdo": "TCPIP::10.73.77.136::4000::SOCKET",
     "dmm": "TCPIP0::169.254.110.87::1026::SOCKET",
     "gdm": "ASRL5::INSTR",
