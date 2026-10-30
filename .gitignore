@@ -24,6 +24,7 @@ app_settings.json
 # OS
 Thumbs.db
 desktop.ini
+.DS_Store
 ~$*
 
 # Stray Windows reserved-name file (accidental redirect artifact)
@@ -37,3 +38,28 @@ Markdown Files/
 datamodel_cache/
 converted/
 Ennovate-2026-Entry.pptx
+
+# IDEs / editors
+.idea/
+
+# Node / Java / Maven
+node_modules/
+*.class
+*.jar
+target/
+
+# Applications
+*.app
+*.exe
+*.war
+
+# Unit test reports
+TEST*.xml
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
