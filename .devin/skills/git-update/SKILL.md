@@ -8,7 +8,7 @@ allowed-tools:
   - grep
 ---
 
-Sync this project's changes to git (remote: `origin` = git@github.com:Slodhi9181/automated-test-suite.git, branch `main`).
+Sync this project's changes to git (branch `main`). Remotes: `origin` fetches from GitHub (git@github.com:Slodhi9181/automated-test-suite.git) and has **two push URLs** (GitHub + Bitbucket) — a single `git push origin HEAD` syncs both hosts.
 
 Procedure:
 
